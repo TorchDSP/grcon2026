@@ -1,0 +1,15 @@
+{
+  "global": {
+    "core:datatype": "cf32_le",
+    "core:sample_rate": 10000000,
+    "core:version": "1.2.5",
+    "core:description": "GNU Radio Conference 2026 CTF narrowband capture"
+  },
+  "captures": [
+    {
+      "core:sample_start": 0,
+      "core:frequency": 0.0
+    }
+  ],
+  "annotations": []
+}

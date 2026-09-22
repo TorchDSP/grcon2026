@@ -1,0 +1,7 @@
+matplotlib
+numpy
+scipy
+torch
+torchsig==2.2.0
+git+https://github.com/TorchDSP/torchsig-models.git@v1.0.0
+ipykernel

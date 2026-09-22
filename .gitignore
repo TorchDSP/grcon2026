@@ -1,0 +1,27 @@
+# Presentation materials
+*.pptx
+*.ppt
+*.key
+*.pdf
+
+# Model checkpoints (downloaded on first use)
+*.ckpt
+
+# Generated datasets and training outputs
+datasets/
+runs/
+lightning_logs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
